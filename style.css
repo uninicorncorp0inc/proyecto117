@@ -1,0 +1,15 @@
+body{
+    background-color: aqua;
+}
+#puntuacion{
+    font-size: 25px;
+    margin-left: 30px;
+}
+#temporizador{
+    font-size: 25px;
+    float:right;
+    margin-right: 80px;
+}
+#dibujo{
+    color: blueviolet;
+}
